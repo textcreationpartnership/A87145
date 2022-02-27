@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The grand designe: or A discovery of that forme of slavery, entended, and in part brought upon the free people of England; by a powerfull party in the Parliament : and L. G. Crumwell, Commissary Gen. Ireton, and others of that facton [sic] in the Army; tending to the utter ruine, and enslaving of the whole nation. With the true grounds of the Kings removall to the Isle of Wight. Also the pretended designe of levelling refuted, and cleared from those false aspersions lately cast upon the authors and promoters of the Peoples Agreement. / Written by Sirrahniho, not an invective, but moderate and impartiall observer of the transactions of the Parliament and Army.</title>
+            <author>Harris, John, fl. 1647.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87145</idno>
+            <idno type="STC">Wing H860A</idno>
+            <idno type="STC">Thomason E419_15</idno>
+            <idno type="STC">ESTC R202583</idno>
+            <idno type="EEBO-CITATION">99862813</idno>
+            <idno type="PROQUEST">99862813</idno>
+            <idno type="VID">114990</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87145)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114990)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E419[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The grand designe: or A discovery of that forme of slavery, entended, and in part brought upon the free people of England; by a powerfull party in the Parliament : and L. G. Crumwell, Commissary Gen. Ireton, and others of that facton [sic] in the Army; tending to the utter ruine, and enslaving of the whole nation. With the true grounds of the Kings removall to the Isle of Wight. Also the pretended designe of levelling refuted, and cleared from those false aspersions lately cast upon the authors and promoters of the Peoples Agreement. / Written by Sirrahniho, not an invective, but moderate and impartiall observer of the transactions of the Parliament and Army.</title>
+                  <author>Harris, John, fl. 1647.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the last yeare of Englands slavery, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Sirrahniho = John Harris.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Annotation on Thomason copy: "Decemb: 8".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Levellers --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114990:1"/>
+            <pb facs="tcp:114990:1" rendition="simple:additions"/>
+            <p>THE GRAND DESIGNE: OR A Diſcovery of that forme of Slavery, enten<g ref="char:EOLhyphen"/>ded, and in part brought upon the <hi>free People of England;</hi> by a <hi>powerfull Party</hi> in the <hi>Parliament:</hi> And L. G. <hi>Crumwell,</hi> Commiſſary Gen. <hi>Ireton,</hi> and others of that facton in the Army; tending to the utter ruine, and enſlaving of the whole Nation.</p>
+            <p>
+               <hi>With the true grounds of the Kings removall to the Iſle of</hi> WIGHT.</p>
+            <p>ALSO The pretended deſigne of Levelling refuted, and cleared from thoſe falſe aſperſions lately, caſt upon the Authors and Promoters of the <hi>Peoples Agreement.</hi>
+            </p>
+            <p>Written by <hi>SIR RAHNIHO,</hi> not an invective, but moderate and im<g ref="char:EOLhyphen"/>partiall obſerver of the tranſactions of the Parliament and Army.</p>
+            <p>Printed in the laſt yeare of Englands Slavery, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:114990:2"/>
+            <pb facs="tcp:114990:2"/>
+            <head>The Grand Deſigne, OR A diſcovery of that forme of ſlavery entended, and in part brought upon the free People of <hi>England.</hi>
+            </head>
+            <p>IN all Ages publique pretences have been made uſe of, for the advantaging and ſecuring of particular intereſts: Not to trace the foot-ſteps of our Anceſtors, I ſhall come a little nearer, and bring to memory only the actings of a great party in our preſent Parliament, and ſome, yea moſt mem<g ref="char:EOLhyphen"/>bers in power in the Army, for the proving my Aſſertion.</p>
+            <p>And now O ye free Commons of <hi>England,</hi> remember, at the beginning of this Parliament, what publique pretences were made uſe of to unite your affections in the management of their then deſigned undertakings? Was there any viſible ſuffrage, or indeed ſuppoſed grievance, depending as a conſequent upon the King, and his Parties deportment, that was not laid down, and de-painted in the moſt lively colours; to the end that the actors and contrivers might appeare odious; and the diſcoverers, and then oppoſers, famous; perſons deſerving both the love and aſſi<g ref="char:EOLhyphen"/>ſtance of that People, which they ſeemingly pretended to deli<g ref="char:EOLhyphen"/>ver from ſuch their then declared preſſures and grievances,</p>
+            <p>At the beginning of this Parliament the whole Repreſentative declared againſt thoſe illegall practiſes of the King and his Coun<g ref="char:EOLhyphen"/>cell, touching <hi>Pattens, Monopolies, illegall Taxes,</hi> as <hi>Ship-money,</hi> and the like, to the end they might the better catch the affections of the People, that groaned under thoſe unſupportable burthens: But it may be remembred, that after thoſe Declarations had net<g ref="char:EOLhyphen"/>led the Royall party therein concerned; and that ſelf-intereſt be<g ref="char:EOLhyphen"/>gan to run a conteſt with publique concernments; how ſoon (al<g ref="char:EOLhyphen"/>though before we had a full Parliament declaring) had we an
+<pb facs="tcp:114990:3"/>
+empty Houſe owning or vindicating the juſtice of thoſe <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which they had before declared to be legall, and proſecuting the contrivers and abetters of thoſe things which were (as they had declared) illegal, nay rather how ſoon had we a great party (ſwaid by honour and intereſt) that (contrary to their own De<g ref="char:EOLhyphen"/>clarations) did joyne in the maintenance of thoſe things, which they had before ſo egerly declared againſt; <hi>viz.</hi> the now Lord <hi>Hop<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on,</hi> the Lord <hi>Capell,</hi> Sir <hi>Edward Deering,</hi> and many others of the Repreſentative or Parliament: Which acting and diſſenting of theirs, how deſtructive it proved to the Kingdome ſince, I leave to all wiſe men to judge; but to proceed:</p>
+            <p>After many perſons had declined, and deviated from their firſt principles (whereby a bloudy War was occaſioned) a ſecond party remaining in power, and plauſibly pretending the pub<g ref="char:EOLhyphen"/>like ſafety (having by pretences of freedome beguiled the Nati<g ref="char:EOLhyphen"/>tion to a belief) took upon them (inſtead of executing juſtice and judgement without partiality, and imploying the Law, in a way of ſafety and preſervation) to oppreſſe the oppreſſed, and pervert juſtice, to exerciſe power, more then reaſon, and to make Law ſubject to their own inordinate wills; ſtraining their pri<g ref="char:EOLhyphen"/>viledges beyond their due limmits, making them altogether un<g ref="char:EOLhyphen"/>limmited: which being obſerved and diſcovered by ſome great men in the Army (who pretended) as in the field) ſo in all pla<g ref="char:EOLhyphen"/>ces) to endeavour the redemption of the Kingdome from ſlave<g ref="char:EOLhyphen"/>ry and oppreſſion) a deſigne was carried on in the Army, and engagements paſſed thereupon, without, yea, againſt the Parlia<g ref="char:EOLhyphen"/>mnts liking; in as much as the Parliament had not (by reaſon of a malignant party prevalent therein) done thoſe things which they had formerly ſworn to performe, &amp; were in conſcience bound to do, in the diſcharge of their truſt to them by the free Commons commited, and for as much as there was a deſign to engage the Kingdome in another war, &amp; enſlave the People of <hi>England</hi> un<g ref="char:EOLhyphen"/>der an Arbitrary power; carryed on by Mr. <hi>Hollis,</hi> Sir <hi>Philip Sta<g ref="char:EOLhyphen"/>pleton,</hi> and others, as was ſuppoſed, and as indeed afterwards did manifeſtly appear: The Army and Councell thereof did agree, and enter into an engagement, (againſt the Parliaments liking)
+<pb facs="tcp:114990:3"/>
+to endeavour and employ all their force to breake and prevent that deſign of raiſing another Army, and to defend, maintaine, and vindicate <hi>the liberties, and Native Birth-rights of all the free Commons of England,</hi> againſt all the endeavours, or oppoſition that could he made againſt it. In purſuance whereof, it was by ſome perſons at L. Gen. <hi>Crumwels,</hi> he himſelfe being preſent, up<g ref="char:EOLhyphen"/>on monday at night before <hi>Whitſunday,</hi> 1647. reſolved, that for aſmuch as it was probable that the ſaid <hi>Hollis</hi> and his Party had a determination privately to remove the King to ſome place of ſtrength, or elſe to ſet him in the head of another Army; <hi>That therefore</hi> Cornet George Joyce, <hi>ſhould with as much ſpeed and ſecre<g ref="char:EOLhyphen"/>cy as might be, repaire to</hi> Oxford, <hi>to give inſtructions for the ſecu<g ref="char:EOLhyphen"/>ring the Garriſon, Magazine and Traine, therein, from the ſaid Par<g ref="char:EOLhyphen"/>ty then endeavouring to get the ſame, and then forthwith to gather ſuch a Party of Horſe as he could conveniently get to his aſſiſtance, and either ſecure the perſon of the</hi> King <hi>from being removed by any o<g ref="char:EOLhyphen"/>ther, or if occaſion were,</hi> to remove him to ſome place of better ſecurity, <hi>for the prevention of the deſign of the aforeſaid pretended traiterous Party:</hi> Which was accordingly done, both with the knowledge and approbation of L. G. <hi>Crumwell,</hi> although he af<g ref="char:EOLhyphen"/>terward (like a <hi>ſubtle Fox)</hi> would not be pleaſed to take notice of it.</p>
+            <p>This being done, and the two Polititians, <hi>Crumwell</hi> and <hi>Ireton,</hi> finding themſelves compleatly ſeated in the affections of the ſol<g ref="char:EOLhyphen"/>diery, having caught them by their plauſible pretences of <hi>Liber<g ref="char:EOLhyphen"/>ty, Freedome. Indempnity, ſecurity,</hi> and the like; and being ſure likewiſe (by reaſon of their many Creatures in the Army, which they had advanced to places of promotion, and brought into the Councell) being ſure I ſay, to carry any thing that they ſhould propound, though they might meet with ſome oppoſers; they caſt about firſt how to un-horſe that Faction that oppoſed them; which by a charge of Treaſon, and other miſdemeanours <hi>(which they never yet had leiſure to prove, nor ever will)</hi> they in a ſhort time accompliſhed; which being done they made an eſſay to do ſomething which ſeemed to tend to the eſtabliſhment of juſtice, ſecuring the freedomes of the People, and eaſing of
+<pb facs="tcp:114990:4"/>
+the burthens of the Kingdome (that they might the better catch the affections of the People) which when they found to be ab<g ref="char:EOLhyphen"/>ſtructed, and that the ſame party and their adherents were ſtill prevalent in the Houſe,, and did vote againſt their proceedings, and by ſecret complotments did bring a tumult upon the Houſe, forcing all members that were not of that party to abſent them<g ref="char:EOLhyphen"/>ſelves, eſpecially the Speakers, who with many other members came to the Army for ſecurity; which members ſitting and aſ<g ref="char:EOLhyphen"/>ſuming a parliamentary power during the <hi>Speakers</hi> abſence, they declared to be illegall, and thereupon entred into a farther en<g ref="char:EOLhyphen"/>gagement at <hi>Hounſlo-heath,</hi> to march up to <hi>London,</hi> to purge the Houſe of thoſe uſurpers of the Parliamentary Power, and to ſetle the free Parliament with honour and ſafety.</p>
+            <p>In order whereunto the Army marched up to <hi>London,</hi> and being in a capacity to performe, what they had undertaken, and declared ſo neceſſary, &amp; conducing to the peace of the Kingdom (by the ſubtill Sophiſtry of <hi>Crumwell</hi> and <hi>Ireton)</hi> the Generall was adviſed to leave it unto the Houſe to purge it ſelfe, which was accordingly done, and what the effect hath been ſince; and how well the Houſe hath been purged, I leave to all wiſe men to Judge; they all, or moſt of them ſtill remaining therein, and they ſince owned and declared a true Parliament.</p>
+            <p>But by the way you may take notice, that as a gratification the Houſe made the Generall High Conſtable of the <hi>Tower,</hi> and I am ſure the L. Generall loſt nothing by that, for he had an old ſervant or two to gratify, which he did ſuddenly after with pla<g ref="char:EOLhyphen"/>ces both of profit and concernment; beſides, another Creature of his, Col. <hi>Hamond</hi> was preſently advanced to be Governour of the <hi>Iſle</hi> of <hi>Wight.</hi>
+            </p>
+            <p>But to proceed, Having now got almoſt what they aimed at (to wit) The Perſon of the King; a conſiderable party in the Parliament; the Militia of the City; and the name of ſaving the Kingdome; they then begin to caſt about how, to keep what they haye got, and that they find to be done but by two waies: the firſt, by cloſing with the Parliament, in making ſuch <hi>Propo<g ref="char:EOLhyphen"/>ſitions</hi> as may pleaſe the King, and thereby linke themſelves ſo
+<pb facs="tcp:114990:4"/>
+to the Kings intereſt and power, that they may be thereby ſe<g ref="char:EOLhyphen"/>cured from the juſt Taxes of the People which they have ſo op<g ref="char:EOLhyphen"/>preſſed and betrayed; or elſe by bringing the Army to the obe<g ref="char:EOLhyphen"/>dience of the Parliament, that by their power, the Parliament might be ſtrengthened and enabled to hold both King and Kingdome to hard meate, and at laſt if the King would not aſ<g ref="char:EOLhyphen"/>ſent to what they declare to be fit and requiſite, then to depoſe him, and take the power into their own hands, and if the King<g ref="char:EOLhyphen"/>dome did not recent or reliſh the buſineſſe, then by the power of the Army to quell and curb them: In order whereunto they ſent Propoſitions to the King, which being not aſſented unto by him, it was put to the queſtion, whether they ſhould make any more addreſſes; which argues that they had a good mind to throw off the King, if they could any way keep their power, and ſecure themſelves without him: But <hi>Ireton</hi> declares that he could not promiſe the aſſiſtance of the Army in any ſuch matter; <hi>his Father in lawes pulſes now beating a Lord-like pace,</hi> ha<g ref="char:EOLhyphen"/>ving a little before <hi>kiſſed the Kings hand,</hi> and therefore ſince they are not likely to ſecure their power without him, they will by him; and to that end the Army muſt be taught a new leſſon, and whereas before, <hi>freedome, ſecurity, the purging of the Houſe, a peri<g ref="char:EOLhyphen"/>od ſet to the Parliament,</hi> and the like, was the only theame; now only <hi>ſecurity for Arreares, a little pay, &amp;c.</hi> muſt be all that the Army deſires, and to what end think you, but that they might appear <hi>ſeekers of themſelves,</hi> and ſo by degrees be loſt in the af<g ref="char:EOLhyphen"/>fections of the People; thus have they in a full careere poſted from the <hi>Saving,</hi> to the <hi>Enſlaving</hi> the Kingdome: But by the way they met with a <hi>rub,</hi> for notwithſtanding that, they thought they had made all ſure, yet ſo it pleaſed God to order and diſ<g ref="char:EOLhyphen"/>poſe things, that their deſigne was made manifeſt, and ſome men of upright hearts, were carried out in the ſeeking of juſtice, and preventing the enſlaving of the Nation, and in order there<g ref="char:EOLhyphen"/>unto, did ſeverall times, not only oppoſe all their <hi>enſlaving practices,</hi> but alſo offer unto them in open Councel, ſome <hi>foun<g ref="char:EOLhyphen"/>dations of common freedome,</hi> abſolutely neceſſary to be inſiſted on, for the re-eſtating of the free Commoners of <hi>England</hi> in
+<pb facs="tcp:114990:5"/>
+their <hi>antient birth-rights;</hi> which they, the ſaid <hi>Deſigners,</hi> (to wit) <hi>Crumwell</hi> and <hi>Ireton;</hi> and the reſt of that <hi>rayalized Faction</hi> could by no meanes relliſh; neither would their high aimes ever ad<g ref="char:EOLhyphen"/>mit them to debate the juſtneſſe thereof; it being altogether croſſe to the Pias of their Ambition: But contrarily they rayled and reviled againſt thoſe, which either propounded or owned any ſuch matter, branding them with the name of dividers of the Army, factious perſons, and the like: And being fearefull that after all their labour they ſhould now be fruſtrated of their expectations, and by ſome under-hand dealing be deprived of the <hi>darling</hi> of their <hi>hopes,</hi> the <hi>King,</hi> there muſt be a pretended deſigne againſt the Kings perſon, diſcovered by L. G. <hi>Crumwell</hi> to his Cozen <hi>Whaley,</hi> and immediately after, (the Guards being firſt doubled) there muſt be a pretended eſcape of the King to avoid that pretended danger; but by the way remember, the King affirmes he had withdrawn his promiſe made to Col. <hi>Wha<g ref="char:EOLhyphen"/>ley,</hi> long before this pretended diſcovery, which was in order to his departure at that time determined without queſtion, and the other but a pretence made uſe of to colour the buſineſſe.</p>
+            <p>It may be remembred that theſe manner of pretences are no new things; for when the King firſt diſcerted the Parliament, the pretence was Tumults, and the danger of his Perſon; and if you would know what thoſe tumults were, they were no o<g ref="char:EOLhyphen"/>ther but the approaches of his oppreſſed Subjects, with cryes for juſtice, which he unjuſtly denyed both his Parliament and Peo<g ref="char:EOLhyphen"/>ple which becauſe he would not grant, he abſented himſelfe, and made the danger of his Perſon by thoſe tumults as he called them, the ground of his departure; although it be notoriouſly apparent, that he was then privately providing to make warre with his Parliament and People, and in order thereunto, was ſending the jewels of the Crown to purchaſe Armes in <hi>Holland</hi> for the managing of the deſign aforeſaid.</p>
+            <p>Which acting and pretences then being compared with his preſent acting in relation to his departure from <hi>Hampton Court,</hi> and the now pretended cauſe thereof, will plainly appeare to be of the ſame ſtamp with the former; and in deed no other but a
+<pb facs="tcp:114990:5"/>
+deſign, not only to make odious, but alſo if advantage be offered, to cut off, and deſtroy all the godly perſons in the Kingdome, that ſhall but in the leaſt endeavour to oppoſe the exerciſe of his, and their Prerogative enſlaving tiranni<g ref="char:EOLhyphen"/>call practiſes, in the ſecuring of the Peoples juſt Rights and Freedomes.</p>
+            <p>But if you ſhall conſider further, whether muſt the King fly, or rather be carried, to avoid the pretended danger, but to <hi>Hammond</hi> at the <hi>Iſle</hi> of <hi>Wight,</hi> one of <hi>Crumwels</hi> own crea<g ref="char:EOLhyphen"/>tures, there to remain, untill ſuch time as Propoſitions can be made ready ſutable to the Kings deſire, and an Act be paſ<g ref="char:EOLhyphen"/>ſed for the Parliaments indempnity; and <hi>then O you poore be<g ref="char:EOLhyphen"/>trayed Commons, where will you obtain juſtice or ſecurity, when your</hi> Truſtees <hi>that pretended to deliver you, ſhall have thus</hi> to advance themſelves, <hi>betraied you.</hi>
+            </p>
+            <p>And now if you ſhall deſire a reaſon why theſe men ſhould now at laſt derogate from their former pretended Princi<g ref="char:EOLhyphen"/>ples; and ſhould not now, as heretofore, endeavour to ſe<g ref="char:EOLhyphen"/>cure the Peoples juſt freedomes.</p>
+            <p>I anſwer; the Parliament, (or at leaſt a great part of them) are now brought to ſuch an exigency, that they cannot act otherwiſe with ſecurity to themſelves.</p>
+            <p>It is eaſie to demonſtrate unto the world, that many of their actions have not, neither can they be warranted by Law, <hi>eſpecially their Arbitrary and illegall ſommoning, and committing perſons</hi> (contrary to Law) <hi>which all knowing men are reſolved for the future to proteſt againſt, and oppoſe, maugre the power of all that ſhall endeavour the execution or juſtification of thoſe unjuſt and tyrannicall practiſes:)</hi> And likewiſe, that by their continued, and redoubled oppreſſions brought up<g ref="char:EOLhyphen"/>on the Kingdome, they have not only loſt the friendſhip of the People, but in a great meaſure purchaſed their enmity; ſo that now their condition is ſuch, that either they muſt cloſe with the King, whoſe intereſt in the People is now greater then theirs, having got what they have loſt) that ſo,
+<pb facs="tcp:114990:6"/>
+what they cannot promiſe themſelves by their own power, they can aſſure themſelves by his, (who without doubt hath ſo much policy as to promiſe both ſecurity &amp; advancement to a part, that he may the eaſilyer get into a capacity of en<g ref="char:EOLhyphen"/>ſlaving the whole.</p>
+            <p>To be a little plainer; It cannot be immagined impro<g ref="char:EOLhyphen"/>bable, that the Parliament having loſt the love of the Peo<g ref="char:EOLhyphen"/>ple, doubting the aſſiſtance of the Army, and wanting means (though without queſtion they have wills) to enable them to throw off the King, and by force to maintain their actions legall; I ſay, can it by any that have ſence or reaſon be imagined, that they will not to ſecure themſelves from the <hi>taxes of the People,</hi> the <hi>laſh of the Law,</hi> and <hi>Levelling,</hi> as they tearme it; that is, from being made (as all other Subjects) accountable to the Law, and People for all their actions) take any advantage or oportunity? And what better ad<g ref="char:EOLhyphen"/>vantage can they have, then to joyn with the King? that by aſſenting unto his deſires, they may engratiate themſelves into his favour, and wrapping themſelves up in his <hi>Mantle of tirannicall Royalty,</hi> and <hi>Protection,</hi> in their own honour &amp; ſecurity, leave all the free Commons of England, (by them animated, authorized, nay enforced to fight againſt, and ſubdue him) expoſed to the exaſperated rage of a <hi>conquered King,</hi> and incenſed Party, who will not faile, being once in power, to exalt themſelves in, and by the ruine of their op<g ref="char:EOLhyphen"/>poſers; and like legitimate <hi>Imps</hi> of their <hi>Tyrant-exalter,</hi> Lord it over the <hi>Kingdome.</hi>
+            </p>
+            <p>And if you ſhall ask, wherein <hi>Crumwell, Ireton,</hi> and the reſt of that Faction, are concerned in the Parliaments acti<g ref="char:EOLhyphen"/>ons; I Anſwer, they are Parliament men, and ſo bound up in the Parliaments actings; and indeed ſo involved in the Parliaments intereſt, (joyned to their own ends) that I can thinke it no other then a difficult matter, for them to deny themſelves in this Particular; Honour and profit being very potent allurements in theſe our ſelf-loving dayes.</p>
+            <p>
+               <pb facs="tcp:114990:6"/>
+It is obſervable that theſe two Polititians <hi>Crumwell,</hi> and <hi>Ireton,</hi> at firſt were eager againſt all perſons that viſibly op<g ref="char:EOLhyphen"/>poſed them in the Parliament, but would never yeeld to the purging of the Houſe,, only they would never be quiet till they had got out all thoſe that any way oppoſed them; wit<g ref="char:EOLhyphen"/>nes the late charge againſt the eleven Members, where (al<g ref="char:EOLhyphen"/>though <hi>Crumwel</hi> himſelfe confeſſed at <hi>Colbrooke,</hi> that he had nothing againſt Sir <hi>John Mainard;</hi> yet he muſt be put in a<g ref="char:EOLhyphen"/>mong the reſt, and only becauſe he was a buſie man againſt him and his faction: Having removed them he remaines ſatisfyed, untill he finds another party of <hi>Pellamites</hi> which endeavour to throw him out of the Sadle; and then he comes in with (I am perſwaded) a hearty ſorrow, confeſſing, and praying God to forgive him, becauſe he had hindered the purging of the Houſe: And why is the Lievtenant Generall ſo penitent thinke you? but only becauſe he feared they would be ſome hinderance to his high aimes.</p>
+            <p>And here I ſhall inſert this Quere, <hi>Whether, conſidering that there are two Parties acting for particular intereſt, and each of them endeavouring to bring in the King, for the advancement of their own party,</hi> whether, I ſay, <hi>it be not probable that the King was removed by deſign, and enduced by engagement, to alter his former reſolution of not being removed; leſt the</hi> Pellamites <hi>ſhould have ſerved</hi> Crumwell <hi>at</hi> Hampton, <hi>as he ſerved them at</hi> Holdenby? For my part if it were not ſo, it is to me a Ridle, which none I believe can unfold but honeſt <hi>Oliver,</hi>
+            </p>
+            <p>But to proceed, It may be demanded, ſeing that <hi>Crumwell</hi> is ſo active for his own parties intereſt, why the other party being as yet moſt powerfull in the Houſe have not outed him of his power?</p>
+            <p>I anſwer, could they but bring the King in upon their own intereſt, and thereby ſecure themſelves in the attempt; I am confident they would tread him and his adherents low e<g ref="char:EOLhyphen"/>nough: and that the Lievtenant General knowes well; o<g ref="char:EOLhyphen"/>therwiſe
+<pb facs="tcp:114990:7"/>
+               <hi>Hammond</hi> had never been Lord Chamberlaine; nor the King removed to the Iſle of <hi>Wight;</hi> though I believe he never dreamt of the conſequences that have happened, and and are like to ſucceed therupon; that by the way; but to proceed, the King being gone, the City diſtaſting them, or in<g ref="char:EOLhyphen"/>deed over-awed, not daring by reaſon of their own diviſions, to appeare with, or for them; the Country wearied, and ra<g ref="char:EOLhyphen"/>ther enclinable to endeavour the diſſolution of their power, then any way to aſſiſt them in the maintenance or ſupport thereof; and which is worſt of all, the Army, (which ſhould by their power make their commands authentique) utterly rejecting their authority, and rendering them a trayterous Party, and perſons endeavouring the deſtruction of the juſt rights and freedomes of the People; theſe things being duely conſidered, you may plainly ſee, that it is more for feare, then favour, that they cloſe with him, he being both politicke and powerfull, by reaſon of his adherents in the Houſe, and creatures in the Army, in reſpect of which alſo they could not make uſe of a fitter inſtrument, to draw the Army to their aſſiſtance, if it might be; for the Father and the Sonne, with the reſt of their Family, from generation to generation, have the command of halfe the Army, all which having received their promotion and Principle from <hi>Crumwell,</hi> and looking ſtill to riſe with him, will not move a foot beyond his inſtruction, nor as neare as they can, fall ſhort of it; and as the King is his Idoll, ſo he is theirs, hang<g ref="char:EOLhyphen"/>ing altogether in the executing what their own honour and intereſt dictates unto them.</p>
+            <p>It is a commendable thing in the Lievetenant Generall to advance his kindred, and ſervants, ſo it be done by good wayes, and for juſt ends; not to advance lawleſſe ambition, &amp; ſtrengthen irregular attempts, if ſo; he may chance in the midſt of his Golden hopes meet with <hi>Buckinghams</hi> Fate, or <hi>Straffords</hi> doome, and in ſtead of honour inherit infamy.</p>
+            <p>
+               <pb facs="tcp:114990:7"/>
+Thus having in ſome meaſure diſcovered unto you their actings in relation to the <hi>betraying the free People of England to an Arbitrary power,</hi> contrary to the <hi>Protestations</hi> of Parlia<g ref="char:EOLhyphen"/>ment, and <hi>engagements</hi> of the <hi>Army.</hi>
+            </p>
+            <p>I will now, in oppoſition to this their practice, lay you down the heads of that <hi>foundation of freedome prop<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unded,</hi> and by them oppoſed, and to the Kingdome rendered odi<g ref="char:EOLhyphen"/>ous, under the notion of <hi>Parity, Community, Levelling, de<g ref="char:EOLhyphen"/>ſtroying Magiſtracy,</hi> and the like, to the end that you may plainly judge betwixt us and them, and ſee who they be that indeed labour to inveſt you with your juſt rights and liberties.</p>
+            <div type="agreement">
+               <head>The Agreement:</head>
+               <p n="1">1. <hi>That the People of England being at this day very une<g ref="char:EOLhyphen"/>qually diſtributed by Counties, Cities and Boroughs, for the E<g ref="char:EOLhyphen"/>lection of their Deputies in Parliament, ought to be more indif<g ref="char:EOLhyphen"/>ferrently proportioned according to the number of the In<g ref="char:EOLhyphen"/>habitants.</hi>
+               </p>
+               <p>That is, for as much as by the late coſtomes of this Nati<g ref="char:EOLhyphen"/>on, there were but two perſons choſen as Repreſentatives for each County, and thoſe by the conſent and approbati<g ref="char:EOLhyphen"/>on of perſons of ſuch a rancke, quality, and condition, as free-holders, &amp;c. which perſons choſen as Repreſentatives have commonly been ſuch as were in ſome meaſure linckt in, or related to, the prerogative of the King, either by pro<g ref="char:EOLhyphen"/>motions received or expected; and likewiſe for as much as the perſons choſing are commonly more ſwaid by favour then reaſon in their choyce, being Tenants either to the perſons choſen, or their friends; which hath been one main reaſon that the loſt liberties of the Kingdome have beene from time to time no better vindicated and preſerved; That therefore from henceforth their might be perſons choſen for Repreſentatives for every County, proportio<g ref="char:EOLhyphen"/>able
+<pb facs="tcp:114990:8"/>
+to the number of Inhabitants in each County, and that not by freeholdolders only, but by the voluntary aſſent of all men that are not ſervants or Beggers, it being pure equity, that as all perſons are bound to yeild obedience to the de<g ref="char:EOLhyphen"/>crees of the Repreſentative or Parliament, ſo they ſhould have a voyce in the electing their Repreſentatives, or Mem<g ref="char:EOLhyphen"/>bers of Parliament.</p>
+               <p n="2">2. That to prevent the many inconveniences apparently a<g ref="char:EOLhyphen"/>riſing from the long continuance of thoſe perſons in autho<g ref="char:EOLhyphen"/>rity, this preſent Parliament be diſſolved, &amp;c.</p>
+               <p>That is, for as much as the long continuance of the Power of Parliament men proveth very deſtructive to the liberty of the People, and occaſioneth their falling into parties and factions, and giveth them great countenance in the exerci<g ref="char:EOLhyphen"/>ſing of an arbitrary power: that therefore they be continued but for a ſhort time, and that during that time they may re<g ref="char:EOLhyphen"/>main accountable to thoſe that choſe and entruſted them.</p>
+               <p>And for that clauſe in the agreement, to wit, <hi>That in all Lawes made or to be made, every perſon may be bound alike, and that no Tenure, Estate, Charter, Deſigne, birth or place; doe con<g ref="char:EOLhyphen"/>ferre any exemption from the ordinary courſe of legall procee<g ref="char:EOLhyphen"/>dings whereunto others are ſubjected,</hi> which they make the ground of aſperſing the proſecutors thereof with the name of <hi>Levellers</hi> and pulling down Magiſtracy; it is indeed no other but this, That whereas now ſeverall perſons are by an uſurped power exalted above the Law, and protected from due proceſs at Law, <hi>(viz)</hi> Lords as Peers, allhough legally indebted, may not be touched with an arreſt, nor be made ſubject to the cenſure of the Law; whereby they have made little conſcience when they have got mens eſtates in their hands, to returne the ſame, but have ſtood upon their Pre<g ref="char:EOLhyphen"/>rogative and thereby been protected, to the utter ruine and undoing of many of the free people of <hi>England.</hi>
+               </p>
+               <p>And likewiſe whereas not only the perſons but habitati<g ref="char:EOLhyphen"/>ons
+<pb facs="tcp:114990:8"/>
+of ſuch Perſons are made ſanctuaries for perſons in<g ref="char:EOLhyphen"/>debted; that theſe things might be for the future removed, and both perſons and places put under the power of the Law,; and this is the whole ſumme of that great deſign of <hi>Levelling</hi> you hear ſo much of.</p>
+               <p>For all other matters I referre you to the <hi>Agreement</hi> it ſelf, which being ſeriouſly and impartially ſcanned, I am confi<g ref="char:EOLhyphen"/>dent will give any man not ſwaid with intereſt or prejudice, ſufficient ſatisfaction; and I doubt not, (maugre the malice and oppoſition of all ſorts of men) will ere long appear to be indeed that which ultimately conduceth to the freedome and ſecurity bothof the Magiſtracy (if ſetled in its right orbe) and all other the now oppreſſed and almoſt enſlaved Commons of <hi>England.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Quere.</head>
+               <p>
+                  <hi>Whether it be not more then probable that the encreaſing the hea<g ref="char:EOLhyphen"/>vy burthens of the Kingdome by taxations from the Parliament and free quarter from the Army, whether I ſay, may it not be done by deſigne, and on purpoſe to weary out the People, that they may thereby be made willing to accept of peace on any tearmes?</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
